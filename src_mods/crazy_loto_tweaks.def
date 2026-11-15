@@ -1,0 +1,3 @@
+LIBRARY CrazyLotoTweaks.asi
+EXPORTS
+    InitializeASI
